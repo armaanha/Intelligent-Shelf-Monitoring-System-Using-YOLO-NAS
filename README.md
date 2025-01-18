@@ -70,25 +70,7 @@ Efficient shelf monitoring translates directly to higher sales, improved custome
 
 Below is a snapshot of the system detecting void spaces in a test image:  
 
-![Void Detection](path-to-your-image)  
+<img width="690" alt="image" src="https://github.com/user-attachments/assets/574b7c24-5136-4df8-a0b2-863d7c7fd385" />
 
----
-
-## 📂 Repository Structure  
-
-- `train/`: Training images and annotations.  
-- `valid/`: Validation images and annotations.  
-- `test/`: Test images and annotations.  
-- `models/`: YOLO-NAS configurations and weights.  
-- `results/`: Output images and evaluation metrics.  
-
----
-
-## 🔗 Let's Connect  
-
-If you find this project interesting or have suggestions for improvement, feel free to reach out!  
-
-📧 **Email:** [armaanha@buffalo.edu](mailto:armaanha@buffalo.edu)  
-🌐 **LinkedIn:** [Armaan Haque](https://www.linkedin.com/in/armaan-haque)  
 
 ---
